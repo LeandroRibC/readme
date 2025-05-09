@@ -4,7 +4,7 @@
  - I'm front end developer.
  - I'm a coffee lover
  - Currently, I'm studying React Native and Expo.
-// - You can check out my portfolio [here](https://daniela-moreira.vercel.app) and my LinkedIn [here](https://linkedin.com/in/daniela-alvesm).
+// - You can check out my portfolio [here]() and my LinkedIn [here](https://www.linkedin.com/in/leandro-ribeiroc).
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=alvesxdani&hide=contribs&theme=radical" style="width: calc(100% - 50%);">
@@ -52,7 +52,7 @@
 <br><br>
 
 <div>
-<a href="https://daniela-moreira.vercel.app/">[Portfólio]</a>
+<a href="">[Portfólio]</a>
 </div>
 
 <br><br>
